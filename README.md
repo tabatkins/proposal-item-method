@@ -82,6 +82,9 @@ for (let C of [Array, String, Uint8Array]) {
 ## Implementations
 
 * Spec-compliant polyfills using the old name of `.item()`: [Array.prototype.item](https://www.npmjs.com/package/array.prototype.item), [String.prototype.item](https://www.npmjs.com/package/string.prototype.item)
+* Browsers:
+  * Firefox Nightly 86
+  * [Safari Technology Preview 118](https://webkit.org/blog/11439/release-notes-for-safari-technology-preview-118/)
 
 ## Web Incompatibility History
 
